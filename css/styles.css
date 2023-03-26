@@ -166,7 +166,7 @@ body {
 }
 
 .full-bg {
-    background-image: url(/assets/girl.jpg);
+    background-image: url(../assets/girl.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     height: 600px;
@@ -323,7 +323,7 @@ body {
 
 
 .learn {
-    background-image: url(/assets/campman.jpg);
+    background-image: url(../assets/campman.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     height: 600px;
